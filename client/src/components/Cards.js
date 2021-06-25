@@ -50,7 +50,7 @@ const Cards = ({ data }) => {
             whiteSpace: "no-wrap",
           }}
         >
-          <b>Note / Catatan:</b> {data.note}
+          <b>Note:</b> {data.note}
         </p>
       </div>
     </div>
